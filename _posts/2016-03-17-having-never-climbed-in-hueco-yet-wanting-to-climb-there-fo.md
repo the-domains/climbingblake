@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Having never climbed in Hueco, yet wanting to climb there for many many years, I have gathered beta from climbers for a long time. The one piece of beta was to do the Wanker 101.'
-datePublished: '2016-03-17T17:48:59.014Z'
-dateModified: '2016-03-17T17:48:10.538Z'
-title: ''
+datePublished: '2016-03-17T17:58:14.102Z'
+dateModified: '2016-03-17T17:57:53.222Z'
+title: The Wanker-101
 author: []
+sourcePath: _posts/2016-03-17-having-never-climbed-in-hueco-yet-wanting-to-climb-there-fo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-having-never-climbed-in-hueco-yet-wanting-to-climb-there-fo.md
-published: true
 url: having-never-climbed-in-hueco-yet-wanting-to-climb-there-fo/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b2dbea9-0b8e-4962-b0d4-974ecdd9aff8.jpg)
+
 Having never climbed in Hueco, yet wanting to climb there for many many years, I have gathered beta from climbers for a long time. The one piece of beta was to do the Wanker 101\.
 
 The Wanker is a 101 boulder problem circuit that only has a couple rules.
@@ -47,6 +49,5 @@ I ended up at the top of Ghetto at 3:00pm. Ghetto Simulator is a classic V2 stee
 I hit the 101 mark of the Wanker at about 3:33, and continued climbing Ghetto 5 more times just for good measure.
 
 I packed up and walked out alone, not seeing a single person. It was a great finish to a great day climbing classics and non-classics on the North Mountain in Hueco.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b2dbea9-0b8e-4962-b0d4-974ecdd9aff8.jpg)
 
 Next year, I will have a different plan. 101 problems ending on Ghetto was really good, but being more of an endurance climber, ill be trying to gather stars
