@@ -2,6 +2,7 @@ name: ClimbingBlake
 favicon: null
 layout_spectrum: 0.96326
 typography_spectrum: 0.21236310410313308
+title: 'Climbing & Coding'
 cta:
   domain: null
   bucket: null
