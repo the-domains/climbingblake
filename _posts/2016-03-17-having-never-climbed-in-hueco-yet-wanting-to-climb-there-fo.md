@@ -5,13 +5,16 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Having never climbed in Hueco, yet wanting to climb there for many many years, I have gathered beta from climbers for a long time. The one piece of beta was to do the Wanker 101.'
-datePublished: '2016-03-17T17:58:14.102Z'
-dateModified: '2016-03-17T17:57:53.222Z'
+description: >-
+  Having never climbed in Hueco, yet wanting to climb there for many many years,
+  I have gathered beta from climbers for a long time. The one piece of beta was
+  to do the Wanker 101.
+datePublished: '2016-08-31T14:09:19.974Z'
+dateModified: '2016-03-17T17:58:19.455Z'
 title: The Wanker-101
 author: []
-sourcePath: _posts/2016-03-17-having-never-climbed-in-hueco-yet-wanting-to-climb-there-fo.md
-published: true
+sourcePath: >-
+  _posts/2016-03-17-having-never-climbed-in-hueco-yet-wanting-to-climb-there-fo.md
 authors: []
 publisher:
   name: null
