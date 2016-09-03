@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: RRGCC.org
+    url: 'http://rrgcc.org'
+    type: external
 favicon: null
 title: Climbing & Coding
 purpose: []
